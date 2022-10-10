@@ -2,6 +2,6 @@ package com.buba.git;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello kusg");
+        System.out.println("hello kug0");
     }
 }
